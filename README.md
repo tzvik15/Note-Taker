@@ -12,7 +12,7 @@ The server.js has routes that respond to the user requests. The response to the 
 
 ## Deployed link:
 
-Since this is a full-stack app, it is deployed in Heroku. This is the link:
+Since this is a full-stack app, it is deployed in Heroku. This is the link: https://fast-meadow-48969.herokuapp.com/
 
 
 
