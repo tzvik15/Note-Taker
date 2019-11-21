@@ -1,0 +1,14 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "a full stack app for taking notes",
+  "main": "server.js",
+  "author": "Daniel Nester",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
